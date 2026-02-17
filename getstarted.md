@@ -6,18 +6,8 @@ Click on the __*Fork*__ button at the top right corner of this page. Forking mea
 
 </div>
 
-<style>
 
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
-
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
@@ -27,18 +17,8 @@ You'll see the word "repository" used a lot in GitHub - it simply means "project
 
 </div>
 
-<style>
 
-.gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-02 p {
-     font-size: 45px;
-}
-
-</style>
-
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-03" markdown="1">
  
 ### 3. Customize your website settings
 
@@ -48,16 +28,6 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 </div>
 
-<style>
-
-.gs-section-03 h3 { 
-     color: orange }
-
-.gs-section-03 p {
-     font-size: 35px;
-}
-
-</style>
 
 ### 4. Congratulations! You have a website!
 
